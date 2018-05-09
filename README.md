@@ -1,5 +1,5 @@
 # About LLuviaOS
-[LLuvia](https://github.com/LLuviaOS/XDA-Template/img/lluvia.png)
+![LLuvia](https://github.com/LLuviaOS/XDA-Template/blob/8.1/img/lluvia.png)
 
 LLuviaOS stands for Rain in spanish . 
 A rom which is highly optimised and with properly designed User Interface. 
