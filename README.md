@@ -5,9 +5,8 @@ LLuviaOS stands for Rain in spanish .
 A rom which is highly optimised and with properly designed User Interface. 
 Primary goal is to provide high performance && best stability of battery .
 
-# Thread Templates
-Stay Tuned !!!
-Working on it will b out soon.
+# Thread Template
+-> LLuviaOS Oreo- Use [LLuviaOS_oreo](https://github.com/LLuviaOS/XDA-Template/blob/8.1/LLuviaOS_oreo.txt)
 
 # Telegram Group/Channel
 [LLuviaOS Community](https://t.me/LLuviaOs)

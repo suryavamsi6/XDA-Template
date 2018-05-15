@@ -1,0 +1,221 @@
+[CENTER][IMG="LLuvia"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia.png[/IMG]
+[SIZE="6"][B] " [color="#2ba851"]LLuviaOS[/COLOR] " [/SIZE][/B]
+[SIZE="5"][B] " [color="#e34036"]Let[/COLOR][color="#3b85ed"]It[/COLOR][color="#2ba851"]Rain![/COLOR] " [/SIZE][/B]
+
+[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B]
+LLuviaOS stands for Rain in spanish . A rom which is highly optimised and with properly designed User Interface. primary goal is to provide high performance && best stability of battery.[/FONT]
+
+[IMG="Disclaimer"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Disclaimer_lluvia.png[/IMG]
+[CODE]
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ [/CODE]
+[SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG="Procedure]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Procedure_lluvia.png[/IMG]
+
+[SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Take Backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build and GApps
+Reboot[/SIZE]
+
+[SIZE="4"][color="#e34036"][B]DIRTY FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build 
+Reboot to recovery
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
+Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
+
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Features_lluvia.png[/IMG]
+[HIDE]
+[B]ToRmEnTa:[/B]
+[LIST]
+[*][U]SYSTEM:[/U]
+[LIST]
+[*]Volume buttons up/down for Do Not Disturb
+[*]Swap volume buttons on rotation
+[*]Volume keys control media volume (or the default ringtone/notification volume)
+[*]Long press volume playback control
+[*]Screen off power button torch (double press and long press)
+[*]Battery charging light customizations
+[*]Notification light customizations
+[*]Power menu customizations
+[*]Alarm Blocker
+[*]Wakelock blocker
+[*]Show app icons in toasts
+[*]Wake on plug
+[*]Vibrate on plug
+[*]Pocket Judge
+[*]Smart notification sounds
+[*]Pocket judge/lock
+[/LIST]
+[*][U]LOCKSCREEN:[/U]
+[LIST]
+[*]Double tap to sleep on lock screen
+[*]Show media cover art
+[*]Ambient Music Ticker (artist/track info)
+[*]Custom shortcuts
+[/LIST]
+[*][U]STATUS BAR:[/U]
+[LIST]
+[*]Clock options:
+[LIST]
+[*]Alignment
+[*]Display seconds
+[*]AM/PM & Date display and format
+[/LIST]
+[*]Battery settings:
+[LIST]
+[*]Battery icon style
+[*]Custom battery saver mode color
+[/LIST]
+[*]Quick settings:
+[LIST]
+[*]Brightness slider icon (for Auto/Manual)
+[*]Bottom brightness slider
+[*]Custom number of rows/columns with Quick add (one click)
+[*]Show tiles title
+[*]Quick pulldown (right)
+[*]QS footer warnings
+[*]QS transparency settings
+[/LIST]
+[*]Network traffic indicator
+[*]Control status bar items
+[*]Double tap to sleep on status bar
+[*]Less annoying heads-up mode
+[*]Statusbar notification ticker
+[*]Notification sound/vibration settings
+[/LIST]
+[*][U]NAVIGATION[/U]
+[LIST]
+[*]Navbar options:[LIST]
+[*]Stock navbar
+[*]Smartbar
+[*]Fling
+[*]Pulse
+[/LIST]
+[*]Hardware keys:[LIST]
+[*]Hardware Key Rebinding
+[*]Hardware lights controls
+[*]Accidental Touch mode
+[/LIST]
+[/LIST]
+[*][U]MULTI-TASKING[/U]
+[LIST]
+[*]Launch music app on headset connection
+[*]Launch music app on headset customization
+[*]Numerous recents options[LIST]
+[*]AOSP Recents:[LIST]
+[*]Immersive Recents
+[*]Clear all button options
+[*]Memory bar
+[*]Custom icon pack support
+[/LIST]
+[*]Slim Recents:[LIST]
+[*]App limit
+[*]Left or Right option
+[*]Custom Recents panel and card background colors
+[*]Rounded corners option
+[*]Custom icon pack support
+[*]Recent apps blacklist
+[*]Custom screen shot editor app settings
+[/LIST]
+[/LIST]
+[*]Gesture Anywhere
+[/LIST]
+[*][U]GENERAL[/U][LIST]
+[*]Rootless Substratum support
+[*]Night light
+[*]Network name display option
+[*]Prevent accidental wake up via proximity sensor
+[*]Ambient display controls
+[*]Double tap to wake (supported devices only)
+[*]Device theme (Substratum if installed, Pixel, Stock)
+[*]Finer DPI and Resolution selections
+[*]Pixel sounds
+[*]Quick PIN unlock
+[*]Root management options (if rooted)
+[*]Doze (supported devices only)
+[*]SystemUI Tuner
+[*]Battery stats reset option
+[*]Thunderised themeing(wallpaper/light/dark)
+[*]Thunder system accent color selector
+[*]Smart Pixels(Supported Devices Only)
+[*]Built-in screen recorder with 3 resolution settings and recording indicator
+[*]Lots of qs tiles
+[*]Fast Charging and Turbo Charging support(Supported Devices only)
+[/LIST]
+[/LIST]
+Lot more to come soon!..Stay Tuned!!![/HIDE]
+
+
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/downloads_lluvia.png[/IMG]
+[INDENT][SIZE="3"]Download [B]ROM:
+*Official*[URL="https://sourceforge.net/projects/lluviaos-v-1-x/files/<device name>"]LLuviaOS[/URL][/SIZE][/B]
+*Unofficial(Use afh only)*[URL="<link of rom>"]LLuviaOS[/URL][/SIZE][/B]
+
+[SIZE="3"]Download [B]Gapps:[/B]
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
+[CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
+
+[IMG="Credits"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/credits_lluvia.png[/IMG]
+[INDENT][SIZE="4"][B]LLuviaOS Core Team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]GZOSP[/FONT]
+[FONT="Comic Sans MS"]CandyRom[/FONT] 
+[FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
+
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/team_lluvia.png[/IMG][SIZE="4"]
+[B][FONT="Comic Sans MS"]Sriram Prakhya[/FONT][/B] - Owner/Lead Developer
+[B][FONT="Comic Sans MS"]Srijith Bharadwaj[/FONT][/B]  - Co-owner/Developer
+[B][FONT="Comic Sans MS"]Akshit Garg[/FONT][/B]  - UI Developer/Designer[/SIZE]
+
+[U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
+[URL="https://www.paypal.me/sriramprakhya"][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_cash.png[/IMG][/URL]
+[SIZE="3"][B][URL="https://www.paypal.me/sriramprakhya"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
+
+[IMG="Source"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Source_lluvia.png[/IMG]
+[SIZE="4"][URL="https://github.com/LLuviaOS"]
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_github.png[/IMG]
+[SIZE="5"][B]LLuviaOS Source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/LLuviaDevices"]LLuviaOS-Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_gplus.png[/IMG]
+[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_telegram.png[/IMG]
+[B][URL="http://t.me/LLuviaOS"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/LLuvia_OS"]Telegram Channel[/URL][/B][/SIZE]
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]LLuviaOS, ROM for the *Your Device*[/B]
+[B]LLuviaOS Version:[/B] 1.1
+[B]Device:[/B] *Your Device
+[B]Maintainer:[/B] *Your Name*
+[B]Build Type:[/B] *Official or Unofficial*
+
+[B][U]Contributors[/U][/B]
+*Maintainer Name*
+[B]Source Code:[/B] [URL="https://github.com/LLuviaOS"]LLuviaOS[/URL]
+[B]Kernel Source:[/B]:[URL="*source link of kernel used*"]*Name of kernel*[/URL]
+[B]Device Tree Source:[/B]*Link of device tree* 
+
+[B]ROM OS Version:[/B] 8.x Nougat
+[B]ROM Kernel:[/B] Linux 3.x
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
+[B]Based On:[/B] AOSP + CAF
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Current Stable Version:[/B] v1.1
+[B]Stable Release Date:[/B] 2018-05-15
+
+[B]Created[/B] 2018-05-15
+[B]Last Updated[/B] 2018-05-15
