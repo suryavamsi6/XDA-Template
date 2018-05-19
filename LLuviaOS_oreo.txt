@@ -1,4 +1,4 @@
-[CENTER][IMG="LLuvia"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia.png[/IMG]
+[CENTER][IMG="LLuvia"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/final_xda.png[/IMG]
 [SIZE="6"][B] " [color="#2ba851"]LLuviaOS[/COLOR] " [/SIZE][/B]
 [SIZE="5"][B] " [color="#e34036"]Let[/COLOR][color="#3b85ed"]It[/COLOR][color="#2ba851"]Rain![/COLOR] " [/SIZE][/B]
 
