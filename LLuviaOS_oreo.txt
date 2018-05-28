@@ -2,7 +2,7 @@
 [SIZE="6"][B] " [color="#2ba851"]LLuviaOS[/COLOR] " [/SIZE][/B]
 [SIZE="5"][B] " [color="#e34036"]Let[/COLOR][color="#3b85ed"]It[/COLOR][color="#2ba851"]Rain![/COLOR] " [/SIZE][/B]
 
-[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B]
+[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
 LLuviaOS stands for Rain in spanish . A rom which is highly optimised and with properly designed User Interface. primary goal is to provide high performance && best stability of battery.[/FONT]
 
 [IMG="Disclaimer"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Disclaimer_lluvia.png[/IMG]
@@ -209,7 +209,7 @@ As soon as the problem occurs, take a logcat!
 [B][U]Contributors[/U][/B]
 *Maintainer Name*
 [B]Source Code:[/B] [URL="https://github.com/LLuviaOS"]LLuviaOS[/URL]
-[B]Kernel Source:[/B]:[URL="*source link of kernel used*"]*Name of kernel*[/URL]
+[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL]
 [B]Device Tree Source:[/B]*Link of device tree* 
 
 [B]ROM OS Version:[/B] 8.x Nougat
