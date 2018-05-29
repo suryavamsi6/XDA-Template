@@ -204,7 +204,7 @@ As soon as the problem occurs, take a logcat!
 [B]LLuviaOS Version:[/B] 1.1
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
-[B]Build Type:[/B] *Official or Unofficial*
+[B]Build Type:[/B] *manmade or naturemade*
 
 [B][U]Contributors[/U][/B]
 *Maintainer Name*
