@@ -218,7 +218,7 @@ As soon as the problem occurs, take a logcat!
 [B]Based On:[/B] AOSP + CAF
 
 [B][U]Version Information[/U][/B]
-[B]Status:[/B] Stable
+[B]Status:[/B] Alpha
 [B]Current Stable Version:[/B] v1.1
 [B]Stable Release Date:[/B] 2018-05-15
 
