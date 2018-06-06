@@ -176,9 +176,8 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
 
 [IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/team_lluvia.png[/IMG][SIZE="4"]
-[B][FONT="Comic Sans MS"]Sriram Prakhya[/FONT][/B] - Owner/Lead Developer
-[B][FONT="Comic Sans MS"]Srijith Bharadwaj[/FONT][/B]  - Co-owner/Developer
-[B][FONT="Comic Sans MS"]Akshit Garg[/FONT][/B]  - UI Developer/Designer[/SIZE]
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]Sriram Prakhya[/URL][/FONT][/B] - Owner/Lead Developer
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]Srijith Bharadwaj[/URL][/FONT][/B]  - Co-owner/Developer
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/sriramprakhya"][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_cash.png[/IMG][/URL]
