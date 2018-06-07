@@ -46,22 +46,22 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [*]Battery charging light customizations
 [*]Notification light customizations
 [*]Power menu customizations
-[*]Alarm Blocker
-[*]Wakelock blocker
+[*]AppOps
 [*]Show app icons in toasts
 [*]Wake on plug
 [*]Vibrate on plug
-[*]Pocket Judge
 [*]Smart notification sounds
-[*]Pocket judge/lock
 [/LIST]
 
 [*][U][I][B]LOCKSCREEN:[/B][/I][/U]
 [LIST]
-[*]Double tap to sleep on lock screen
-[*]Show media cover art
 [*]Ambient Music Ticker (artist/track info)
+[*]Show media cover art
+[*]Double tap to sleep on lock screen
+[*]Face Auto Unlock
 [*]Custom shortcuts
+[*]Lockscreen Clock style
+[*]Lockscreen Date style
 [/LIST]
 
 [*][U][I][B]STATUS BAR:[/B][/I][/U]
@@ -77,6 +77,12 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [*]Battery icon style
 [*]Custom battery saver mode color
 [/LIST]
+[*]Network Traffic:
+[LIST]
+[*]Net activity autohide
+[*]Show data disabled icon toggle
+[/LIST]
+[*]Carrier label settings
 [*]Quick settings:
 [LIST]
 [*]Brightness slider icon (for Auto/Manual)
@@ -87,15 +93,14 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [*]QS footer warnings
 [*]QS transparency settings
 [/LIST]
-[*]Network traffic indicator
 [*]Control status bar items
 [*]Double tap to sleep on status bar
+[*]4g/LTE switch 
 [*]Less annoying heads-up mode
 [*]Statusbar notification ticker
-[*]Notification sound/vibration settings
 [/LIST]
 
-[*][U][I][B]NAVIGATION[/B][/I][/U]
+[*][U][I][B]NAVIGATION:[/B][/I][/U]
 [LIST]
 [*]Navbar options:[LIST]
 [*]Stock navbar
@@ -104,16 +109,16 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [*]Pulse
 [/LIST]
 [*]Hardware keys:[LIST]
+[*]Backlight toggle
 [*]Hardware Key Rebinding
 [*]Hardware lights controls
 [*]Accidental Touch mode
+[*]Custom actions on single touch/double tap/ long press
 [/LIST]
 [/LIST]
 
-[*][U][I][B]MULTI-TASKING[/B][/I][/U]
+[*][U][I][B]CLOUD:[/B][/I][/U]
 [LIST]
-[*]Launch music app on headset connection
-[*]Launch music app on headset customization
 [*]Numerous recents options[LIST]
 [*]AOSP Recents:[LIST]
 [*]Immersive Recents
@@ -132,9 +137,22 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [/LIST]
 [/LIST]
 [*]Gesture Anywhere
+[*]Alarm Blocker
+[*]Wakelock Blocker
+[*]Screen capture options:[LIST]
+[*]Three finger gesture
+[*]Shutter sound
+[*]Screenshot edit app
+[/LIST]
+[*]Miscellaneous:[LIST]
+[*]Launch music app on headset connection
+[*]Ringtone play options on headset connectoin
+[*]Pocket Detection
+[*]Android P animation style
+[/LIST]
 [/LIST]
 
-[*][U][I][B]GENERAL[/B][/I][/U][LIST]
+[*][U][I][B]DISPLAY SETTINGS:[/B][/I][/U][LIST]
 [*]Rootless Substratum support
 [*]Night light
 [*]Network name display option
@@ -222,4 +240,4 @@ As soon as the problem occurs, take a logcat!
 [B]Stable Release Date:[/B] 2018-05-15
 
 [B]Created[/B] 2018-05-15
-[B]Last Updated[/B] 2018-05-15
+[B]Last Updated[/B] 2018-06-07
