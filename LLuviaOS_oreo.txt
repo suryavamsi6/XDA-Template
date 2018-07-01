@@ -195,9 +195,13 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 
 [IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/team_lluvia.png[/IMG][SIZE="4"]
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sriram Prakhya[/URL][/FONT][/B] - Owner/Lead Developer
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Anush12133[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Srijith Bharadwaj[/URL][/FONT][/B]  - Co-owner/Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Akshit Garg[/URL][/FONT][/B]  - Designer/Ui Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@SPMS22[/URL][/FONT][/B]  For his great CameraNextMod
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@shanuflash[/URL][/FONT][/B] - Group Maintainer
+
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sagar Shah[/URL][/FONT][/B] - Special Thanx for always being with us
 
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/sriramprakhya"][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_cash.png[/IMG][/URL]
