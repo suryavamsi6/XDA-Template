@@ -197,6 +197,8 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sriram Prakhya[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Srijith Bharadwaj[/URL][/FONT][/B]  - Co-owner/Developer
 
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@SPMS22[/URL][/FONT][/B]  For his great CameraNextMod
+
 [U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
 [URL="https://www.paypal.me/sriramprakhya"][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_cash.png[/IMG][/URL]
 [SIZE="3"][B][URL="https://www.paypal.me/sriramprakhya"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
@@ -218,7 +220,7 @@ As soon as the problem occurs, take a logcat!
 
 [B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
 [SIZE="3"][B]LLuviaOS, ROM for the *Your Device*[/B][/SIZE]
-[B]LLuviaOS Version:[/B] 1.1
+[B]LLuviaOS Version:[/B] 1.4
 [B]Device:[/B] *Your Device
 [B]Maintainer:[/B] *Your Name*
 [B]Build Type:[/B] *manmade or naturemade*
