@@ -235,14 +235,14 @@ As soon as the problem occurs, take a logcat!
 [B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL]
 [B]Device Tree Source:[/B]*Link of device tree* 
 
-[B]ROM OS Version:[/B] 8.x Nougat
+[B]ROM OS Version:[/B] 8.1.x
 [B]ROM Kernel:[/B] Linux 3.x
 [B]ROM Firmware Required:[/B] Must be on Latest Firmware
 [B]Based On:[/B] AOSP + CAF
 
 [B][U]Version Information[/U][/B]
 [B]Status:[/B] Alpha
-[B]Current Stable Version:[/B] v1.1
+[B]Current Stable Version:[/B] v1.4
 [B]Stable Release Date:[/B] 2018-05-15
 
 [B]Created[/B] 2018-05-15
