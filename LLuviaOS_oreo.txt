@@ -193,7 +193,7 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [FONT="Comic Sans MS"]CandyRom[/FONT] 
 [FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
 
-[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/team_lluvia.png[/IMG][SIZE="4"]
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/team_lluvia.png[/IMG]
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sriram Prakhya[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Anush12133[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Srijith Bharadwaj[/URL][/FONT][/B]  - Co-owner/Developer
@@ -241,7 +241,7 @@ As soon as the problem occurs, take a logcat!
 [B]Based On:[/B] AOSP + CAF
 
 [B][U]Version Information[/U][/B]
-[B]Status:[/B] Alpha
+[B]Status:[/B] Stable
 [B]Current Stable Version:[/B] v1.4
 [B]Stable Release Date:[/B] 2018-05-15
 
