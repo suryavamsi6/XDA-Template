@@ -190,6 +190,7 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [INDENT][SIZE="4"][B]LLuviaOS Core Team
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]GZOSP[/FONT]
+[FONT="Comic Sans MS"]AOSiP[/FONT]
 [FONT="Comic Sans MS"]CandyRom[/FONT] 
 [FONT="Comic Sans MS"]Dirty Unicorns [/FONT]And all other open source Devs/Teams.[/B][/SIZE][/INDENT]
 
