@@ -5,7 +5,7 @@
 [SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
 LLuviaOS stands for Rain in spanish . A rom which is highly optimised and with properly designed User Interface. primary goal is to provide high performance && best stability of battery.[/FONT]
 
-[IMG="Disclaimer"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Disclaimer_lluvia.png[/IMG]
+[IMG="Disclaimer"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Disclaimer.png[/IMG]
 [CODE]
  * Your warranty is now void.
  * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
@@ -13,7 +13,7 @@ LLuviaOS stands for Rain in spanish . A rom which is highly optimised and with p
  [/CODE]
 [SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
 
-[IMG="Procedure"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Procedure_lluvia.png[/IMG]
+[IMG="Procedure"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Procedure.png[/IMG]
 
 [SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
 [SIZE="4"]Download the latest build and GApps
@@ -31,7 +31,7 @@ Wipe Cache
 Reboot[/SIZE]
 Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed every time you Dirty Flash the OTA Update.
 
-[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Features_lluvia.png[/IMG][/CENTER]
+[IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Features.png[/IMG][/CENTER]
 [HIDE]
 [B]ToRmEnTa:[/B]
 [LIST]
@@ -177,7 +177,7 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [/LIST]
 Lot more to come soon!..Stay Tuned!!![/HIDE]
 
-[CENTER][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/downloads_lluvia.png[/IMG]
+[CENTER][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Downloads.png[/IMG]
 [INDENT][SIZE="3"]Download [B]ROM:
 *Official*[URL="https://sourceforge.net/projects/lluviaos-v-1-x/files/<device name>"]LLuviaOS[/URL][/SIZE][/B]
 *Unofficial(Use afh only)*[URL="<link of rom>"]LLuviaOS[/URL][/SIZE][/B]
@@ -186,7 +186,7 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B][/SIZE][/INDENT]
 [CENTER]Note : Nano and above Gapps are recommended.[/CENTER]
 
-[IMG="Credits"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/credits_lluvia.png[/IMG]
+[IMG="Credits"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Credits.png[/IMG]
 [INDENT][SIZE="4"][B]LLuviaOS Core Team
 [FONT="Comic Sans MS"]AOSP[/FONT]
 [FONT="Comic Sans MS"]GZOSP[/FONT]
@@ -197,8 +197,20 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sriram Prakhya[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Anush12133[/URL][/FONT][/B] - Owner/Lead Developer
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Srijith Bharadwaj[/URL][/FONT][/B]  - Co-owner/Developer
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@ANDROIABLEDROID[/URL][/FONT][/B]  - Developer
+
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@Akshit Garg[/URL][/FONT][/B]  - Designer/Ui Developer
+
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]Alex Besida[/URL][/FONT][/B]  - Designer
+
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]Pavan Patel[/URL][/FONT][/B]  - Templates
+
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]Jyotiraditya and Abhiraj Sahu[/URL][/FONT][/B]  - Icons & Deveveloper(Maintainer)
+
+[B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]Ali Hasan[/URL][/FONT][/B]  - Developer
+
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=8350895"]@SPMS22[/URL][/FONT][/B]  For his great CameraNextMod
+
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@shanuflash[/URL][/FONT][/B] - Group Maintainer
 
 [B][FONT="Comic Sans MS"][URL="https://forum.xda-developers.com/member.php?u=6620456"]@Sagar Shah[/URL][/FONT][/B] - Special Thanx for always being with us
@@ -207,7 +219,7 @@ Lot more to come soon!..Stay Tuned!!![/HIDE]
 [URL="https://www.paypal.me/sriramprakhya"][IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_cash.png[/IMG][/URL]
 [SIZE="3"][B][URL="https://www.paypal.me/sriramprakhya"][COLOR=#3b85ed][FONT="Comic Sans MS"]Loved the ROM? Want to help it imporove? Gift us with some credits![/FONT][/COLOR][/URL][/B][/SIZE]
 
-[IMG="Source"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/Source_lluvia.png[/IMG]
+[IMG="Source"]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/lluvia-2.x/img/Source.png[/IMG]
 [SIZE="4"][URL="https://github.com/LLuviaOS"]
 [IMG]https://raw.githubusercontent.com/LLuviaOS/XDA-Template/8.1/img/lluvia_github.png[/IMG]
 [SIZE="5"][B]LLuviaOS Source[/URL][/B][/SIZE]
