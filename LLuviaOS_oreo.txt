@@ -36,68 +36,47 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [B]ToRmEnTa:[/B]
 [LIST]
 
-[*][U][I][B]SYSTEM:[/B][/I][/U]
-[LIST]
-[*]Volume buttons up/down for Do Not Disturb
-[*]Swap volume buttons on rotation
-[*]Volume keys control media volume (or the default ringtone/notification volume)
-[*]Long press volume playback control
-[*]Screen off power button torch (double press and long press)
-[*]Battery charging light customizations
-[*]Notification light customizations
-[*]Power menu customizations
-[*]AppOps
-[*]Show app icons in toasts
-[*]Wake on plug
-[*]Vibrate on plug
-[*]Smart notification sounds
-[/LIST]
-
-[*][U][I][B]LOCKSCREEN:[/B][/I][/U]
-[LIST]
-[*]Ambient Music Ticker (artist/track info)
-[*]Show media cover art
-[*]Double tap to sleep on lock screen
-[*]Face Auto Unlock
-[*]Custom shortcuts
-[*]Lockscreen Clock style
-[*]Lockscreen Date style
-[/LIST]
-
 [*][U][I][B]STATUS BAR:[/B][/I][/U]
 [LIST]
-[*]Clock options:
+[*]Battery:
 [LIST]
-[*]Alignment
+[*]Pattery Percentage toggle
+[*]Battery Style
+[*]Large Icon Toggle
+[/LIST]
+[*]Carrier Label:
+[LIST]
+[*]Display settings
+[*]Custom carrier label
+[/LIST]
+[*]Clock:
+[LIST]
+[*]Display clock and date
 [*]Display seconds
+[*]Alignment
 [*]AM/PM & Date display and format
 [/LIST]
-[*]Battery settings:
+[*]Icons:
 [LIST]
-[*]Battery icon style
-[*]Custom battery saver mode color
+[*]Status bar icons
+[*]LLuvia Logo
+[*]Data disabled icon toggle
 [/LIST]
-[*]Network Traffic:
+[*]Traffic
 [LIST]
-[*]Net activity autohide
-[*]Show data disabled icon toggle
+[*]Display network activity toggle
+[*]Threshold
 [/LIST]
-[*]Carrier label settings
-[*]Quick settings:
+
+[*][U][I][B]QUICK SETTINGS:[/B][/I][/U]
+[*]Expanded:
 [LIST]
+[*]Opacity
 [*]Brightness slider icon (for Auto/Manual)
-[*]Bottom brightness slider
-[*]Custom number of rows/columns with Quick add (one click)
-[*]Show tiles title
+[*]Hide qs in lockscreen toggle
 [*]Quick pulldown (right)
-[*]QS footer warnings
-[*]QS transparency settings
-[/LIST]
-[*]Control status bar items
-[*]Double tap to sleep on status bar
-[*]4g/LTE switch 
-[*]Less annoying heads-up mode
-[*]Statusbar notification ticker
+[*]Tile animation style
+[*]Tile animation duration
 [/LIST]
 
 [*][U][I][B]NAVIGATION:[/B][/I][/U]
@@ -117,63 +96,96 @@ Note : GApps only has to be flashed once whereas Magisk/Su is to be flashed ever
 [/LIST]
 [/LIST]
 
-[*][U][I][B]CLOUD:[/B][/I][/U]
+[*][U][I][B]NOTIFICATION:[/B][/I][/U]
+[*]Battery LED
 [LIST]
-[*]Numerous recents options[LIST]
-[*]AOSP Recents:[LIST]
-[*]Immersive Recents
-[*]Clear all button options
-[*]Memory bar
-[*]Custom icon pack support
+[*]Enable tooggle
+[*]Do not disturb mode light
+[*]Blinking light
+[*]Battery light color when charging settings.
 [/LIST]
-[*]Slim Recents:[LIST]
-[*]App limit
-[*]Left or Right option
-[*]Custom Recents panel and card background colors
-[*]Rounded corners option
-[*]Custom icon pack support
-[*]Recent apps blacklist
-[*]Custom screen shot editor app settings
+[*]Heads up
+[LIST]
+[*]Enable tooggle
+[*]Make heads up less annoying
+[*]Blacklist apps
 [/LIST]
-[/LIST]
-[*]Gesture Anywhere
-[*]Alarm Blocker
-[*]Wakelock Blocker
-[*]Screen capture options:[LIST]
-[*]Three finger gesture
-[*]Shutter sound
-[*]Screenshot edit app
-[/LIST]
-[*]Miscellaneous:[LIST]
-[*]Launch music app on headset connection
-[*]Ringtone play options on headset connectoin
-[*]Pocket Detection
-[*]Android P animation style
-[/LIST]
+[*]Notifications
+[LIST]
+[*]Shade tint
+[*]App icon toast
+[*]Kill app button
+[*]Notification count
+[*]Smart notification sounds
+[*]Ticker settings
 [/LIST]
 
-[*][U][I][B]DISPLAY SETTINGS:[/B][/I][/U][LIST]
-[*]Rootless Substratum support
-[*]Night light
-[*]Network name display option
-[*]Prevent accidental wake up via proximity sensor
-[*]Ambient display controls
-[*]Double tap to wake (supported devices only)
-[*]Device theme (Substratum if installed, Pixel, Stock)
-[*]Finer DPI and Resolution selections
-[*]Pixel sounds
-[*]Quick PIN unlock
-[*]Root management options (if rooted)
-[*]Doze (supported devices only)
-[*]SystemUI Tuner
-[*]Battery stats reset option
-[*]Thunderised themeing(wallpaper/light/dark)
-[*]Thunder system accent color selector
-[*]Smart Pixels(Supported Devices Only)
-[*]Built-in screen recorder with 3 resolution settings and recording indicator
-[*]Lots of qs tiles
-[*]Fast Charging and Turbo Charging support(Supported Devices only)
+[*][U][I][B]HARDWARE BUTTONS:[/B][/I][/U]
+[*]Power
+[LIST]
+[*]Reboot/Advanced Reboot option
+[*]Lockscreen visibility
+[*]Screen off animations
+[*]Power button torch
+[*]Power menu tint
 [/LIST]
+[*]Volume
+[LIST]
+[*]Playback control
+[*]Swap on roation
+[*]Media volume control
+[*]Cursor control
+[*]Do not disturb settings
+[/LIST]
+
+[*][U][I][B]RECENTS:[/B][/I][/U]
+[*]Stock
+[LIST]
+[*]Hide apps from recents
+[*]Recents layout
+[*]Background tint
+[*]Immersive Recents
+[*]Clear all FAB settings
+[/LIST]
+
+[*][U][I][B]LOCKSCREEN:[/B][/I][/U]
+[*]Music Ticker
+[LIST]
+[*]Layout selection
+[/LIST]
+[*]Various
+[LIST]
+[*]Shortcuts
+[*]Show media cover art
+[*]Fingerprint Vibration
+[*]Lockscreen Clock style
+[*]Lockscreen Date style
+[*]Face Auto Unlock
+[*]Music visualizer
+[/LIST]
+
+[*][U][I][B]GESTURE:[/B][/I][/U]
+[LIST]
+[*]AOSP Gestures
+[*]Three Finger gestures
+[*]Brightness control
+[*]Double tap to sleep from lockscreen
+[*]Double tap to sleep from statusbar
+[/LIST]
+
+[*][U][I][B]ADVANCED SETTINGS:[/B][/I][/U]
+[*]System Settings:
+[LIST]
+[*]AppOps
+[*]Activity Blacklist
+[*]Launch music app on headset connection
+[*]Screenshot edit app
+[*]Vibrate on connect
+[*]Vibrate on call waiting
+[*]Vibrate on disconnect
+[/LIST]
+[*]Suspend Actions
+[*]Wakelock Blocker
 [/LIST]
 Lot more to come soon!..Stay Tuned!!![/HIDE]
 
